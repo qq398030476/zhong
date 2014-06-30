@@ -1,0 +1,18 @@
+*{margin: 0;padding: 0}
+html,body{font-family: "微软雅黑";color:#727272;}
+ul{list-style: none}
+a{text-decoration: none;}
+.head{
+	width: 100%;
+	min-width: 960px;
+	_width:1366px;
+	height: 70px;
+	background:url(../images/head_bg.jpg) 0 0 repeat-x;
+}
+
+.center{
+
+}
+.footer{
+
+}
